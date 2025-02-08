@@ -1,6 +1,6 @@
 const messages = [
     "Segura???",
-    "Piensalo bienn?",
+    "Piensalo bienn",
     "Ya lo pensaste???",
     "Porfaaa",
     "Porfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
